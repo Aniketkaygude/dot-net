@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebApplication1.Models.Employee>
+
+@{
+    ViewData["Title"] = "ListAllEmployees";
+}
+
+<h1>ListAllEmployees</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeePhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeCompany)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeJoinDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeExperience)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeCareerLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeSkill)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeOffShoreStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeOffShoreEndDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeCompany)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeJoinDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeExperience)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeCareerLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeSkill)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeOffShoreStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeOffShoreEndDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.EmployeeId  })|
+                    @Html.ActionLink("Details", "Details", new { id = item.EmployeeId })|
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

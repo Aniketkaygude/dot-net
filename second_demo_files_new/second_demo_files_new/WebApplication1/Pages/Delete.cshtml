@@ -1,0 +1,12 @@
+﻿@page
+@model WebApplication1.Pages.DeleteModel
+@{
+}
+
+<form method="post">
+    Product Id:@Html.DisplayFor(model=>model.pobj.ProductId)<br /><br />
+    <input type="hidden" asp-for="pobj.ProductId" />
+    Product Name:@Html.DisplayFor(model=>model.pobj.ProductName)<br /><br />
+    Product Price:@Html.DisplayFor(model=>model.pobj.Price)<br /><br />
+    <input type="submit" value="Delete" />
+</form>

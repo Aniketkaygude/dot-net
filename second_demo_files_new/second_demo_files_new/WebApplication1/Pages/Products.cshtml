@@ -1,0 +1,35 @@
+﻿@page
+@model WebApplication1.Pages.ProductsModel
+@{
+}
+
+<a asp-page="Create">Add New</a>
+<br /><br />
+<form method="post">
+    <div class="form-group">
+        <input type="search" name="productName" />
+        <input type="submit" value="search" />
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td><b>Product Name</b></td>
+            <td><b>Product Price</b></td>            
+        </tr>
+    </thead>
+
+
+@foreach(var p in Model.plist)
+{
+    <tr>
+        <td>@p.ProductName</td>
+        <td>@p.Price</td>
+        <td><a asp-page="Details" asp-route-prodid="@p.ProductId">View Details</a></td>
+        <td><a asp-page="Edit" asp-route-prodid="@p.ProductId">Edit</a></td>
+        <td><a asp-page="Delete" asp-route-prodid="@p.ProductId">Delete</a></td>
+    </tr>
+}
+
+</table>

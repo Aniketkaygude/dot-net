@@ -1,0 +1,14 @@
+D:\DotNet-Training\Day-3(delegate)\bin\Debug\net8.0\Day-3(delegate).exe
+D:\DotNet-Training\Day-3(delegate)\bin\Debug\net8.0\Day-3(delegate).deps.json
+D:\DotNet-Training\Day-3(delegate)\bin\Debug\net8.0\Day-3(delegate).runtimeconfig.json
+D:\DotNet-Training\Day-3(delegate)\bin\Debug\net8.0\Day-3(delegate).dll
+D:\DotNet-Training\Day-3(delegate)\bin\Debug\net8.0\Day-3(delegate).pdb
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).AssemblyInfoInputs.cache
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).AssemblyInfo.cs
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).csproj.CoreCompileInputs.cache
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).dll
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\refint\Day-3(delegate).dll
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).pdb
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\Day-3(delegate).genruntimeconfig.cache
+D:\DotNet-Training\Day-3(delegate)\obj\Debug\net8.0\ref\Day-3(delegate).dll

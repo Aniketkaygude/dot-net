@@ -1,0 +1,14 @@
+D:\DotNet-Training\Day-1\bin\Debug\net8.0\Day-1.exe
+D:\DotNet-Training\Day-1\bin\Debug\net8.0\Day-1.deps.json
+D:\DotNet-Training\Day-1\bin\Debug\net8.0\Day-1.runtimeconfig.json
+D:\DotNet-Training\Day-1\bin\Debug\net8.0\Day-1.dll
+D:\DotNet-Training\Day-1\bin\Debug\net8.0\Day-1.pdb
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.AssemblyInfoInputs.cache
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.AssemblyInfo.cs
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.csproj.CoreCompileInputs.cache
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.dll
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\refint\Day-1.dll
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.pdb
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\Day-1.genruntimeconfig.cache
+D:\DotNet-Training\Day-1\obj\Debug\net8.0\ref\Day-1.dll

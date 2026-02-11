@@ -1,0 +1,14 @@
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\DotNet-Training\Real_Estate\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\DotNet-Training\Real_Estate\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.runtimeconfig.json
+D:\DotNet-Training\Real_Estate\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\DotNet-Training\Real_Estate\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
+D:\DotNet-Training\Real_Estate\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

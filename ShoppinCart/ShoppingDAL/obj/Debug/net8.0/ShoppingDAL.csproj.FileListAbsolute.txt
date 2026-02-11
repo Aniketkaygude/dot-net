@@ -1,0 +1,14 @@
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\bin\Debug\net8.0\ShoppingDAL.deps.json
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\bin\Debug\net8.0\ShoppingDAL.runtimeconfig.json
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\bin\Debug\net8.0\ShoppingDAL.dll
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\bin\Debug\net8.0\ShoppingDAL.pdb
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.csproj.AssemblyReference.cache
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.AssemblyInfoInputs.cache
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.AssemblyInfo.cs
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.csproj.CoreCompileInputs.cache
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.dll
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\refint\ShoppingDAL.dll
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.pdb
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ShoppingDAL.genruntimeconfig.cache
+D:\DotNet-Training\ShoppinCart\ShoppingDAL\obj\Debug\net8.0\ref\ShoppingDAL.dll

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<WebApplication1.Models.Employee>
+
+@{
+    ViewData["Title"] = "SearchByName";
+}
+
+<h1>Search By Name</h1>
+
+<form asp-action="SearchByName" method="post">
+    <div class="form-group">
+        <label for="name">Employee Name:</label>
+        <input type="text" name="name" class="form-control" placeholder="Enter name..." />
+    </div>
+    <div class="form-group mt-2">
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+
+
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeId)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeFullName)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeAddress)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeePhone)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeCompany)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeJoinDate)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeExperience)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeCareerLevel)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeSkill)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeOffShoreStartDate)</th>
+            <th>@Html.DisplayNameFor(model => model.First().EmployeeOffShoreEndDate)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.EmployeeId</td>
+                    <td>@item.EmployeeFullName</td>
+                    <td>@item.EmployeeAddress</td>
+                    <td>@item.EmployeePhone</td>
+                    <td>@item.EmployeeCompany</td>
+                    <td>@item.EmployeeJoinDate</td>
+                    <td>@item.EmployeeExperience</td>
+                    <td>@item.EmployeeCareerLevel</td>
+                    <td>@item.EmployeeSkill</td>
+                    <td>@item.EmployeeOffShoreStartDate</td>
+                    <td>@item.EmployeeOffShoreEndDate</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.EmployeeId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId })
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="12" class="text-center">No employees found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

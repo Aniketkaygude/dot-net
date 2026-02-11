@@ -1,0 +1,47 @@
+namespace/package-collection of classes,interfaces,sub namespace
+
+types of variable
+1.value type
+2.reference type
+
+value type:
+1.data store in stack memory.
+eg.int
+
+
+reference type:
+1.data store in heap memory,address of that heap memory is stored in stack.
+eg.string,object,class,delegate,array
+
+local variable
+instance variable/member/object variable
+
+local variable:declare inside method,so scope of the local variable is within the method only.
+instance variable:declare inside the class,outside of all methods,
+instance variables are accessible to all methods within that class.
+
+struct student
+{
+	int rno;
+	string sname;
+	double per;
+}
+
+struct student s;
+s.rno=101;
+s.sname="pooja";
+s.per=67;
+
+
+enum-group of constant
+
+
+
+
+
+
+
+
+
+
+

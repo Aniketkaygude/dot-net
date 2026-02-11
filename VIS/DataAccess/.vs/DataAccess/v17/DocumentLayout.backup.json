@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet-Training\\VIS\\DataAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884FB1-1B48-4629-9725-3CBB1A0A691D}|DataAccess.csproj|d:\\dotnet-training\\vis\\dataaccess\\repository\\visrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34884FB1-1B48-4629-9725-3CBB1A0A691D}|DataAccess.csproj|solutionrelative:repository\\visrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884FB1-1B48-4629-9725-3CBB1A0A691D}|DataAccess.csproj|d:\\dotnet-training\\vis\\dataaccess\\repository\\visdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34884FB1-1B48-4629-9725-3CBB1A0A691D}|DataAccess.csproj|solutionrelative:repository\\visdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\views\\voters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\models\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\views\\voters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77747B21-5563-46D1-A196-EBA59657715C}|..\\VISApp\\VISApp.csproj|d:\\dotnet-training\\vis\\visapp\\views\\voters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VISDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\DataAccess\\Repository\\VISDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\VISDbContext.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\DataAccess\\Repository\\VISDbContext.cs",
+              "RelativeToolTip": "Repository\\VISDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:37:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VISRepo.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\DataAccess\\Repository\\VISRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\VISRepo.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\DataAccess\\Repository\\VISRepo.cs",
+              "RelativeToolTip": "Repository\\VISRepo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:16:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Voter.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Models\\Voter.cs",
+              "RelativeDocumentMoniker": "..\\VISApp\\Models\\Voter.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Models\\Voter.cs",
+              "RelativeToolTip": "..\\VISApp\\Models\\Voter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:59:57.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\VISApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\VISApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:45:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\VISApp\\Views\\Voters\\Create.cshtml",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Create.cshtml",
+              "RelativeToolTip": "..\\VISApp\\Views\\Voters\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:33:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\VISApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "..\\VISApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:27:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\VISApp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\VISApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:27:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\VISApp\\Views\\Voters\\Delete.cshtml",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Delete.cshtml",
+              "RelativeToolTip": "..\\VISApp\\Views\\Voters\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:15:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotersController.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Controllers\\VotersController.cs",
+              "RelativeDocumentMoniker": "..\\VISApp\\Controllers\\VotersController.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Controllers\\VotersController.cs",
+              "RelativeToolTip": "..\\VISApp\\Controllers\\VotersController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:58:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VISApp\\Program.cs",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Program.cs",
+              "RelativeToolTip": "..\\VISApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:27:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\VISApp\\Views\\Voters\\Edit.cshtml",
+              "ToolTip": "D:\\DotNet-Training\\VIS\\VISApp\\Views\\Voters\\Edit.cshtml",
+              "RelativeToolTip": "..\\VISApp\\Views\\Voters\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:13:13.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

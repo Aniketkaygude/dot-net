@@ -1,0 +1,14 @@
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).AssemblyInfoInputs.cache
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).AssemblyInfo.cs
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).csproj.CoreCompileInputs.cache
+D:\DotNet-Training\Day-3(collections)\bin\Debug\net8.0\Day-3(collections).exe
+D:\DotNet-Training\Day-3(collections)\bin\Debug\net8.0\Day-3(collections).deps.json
+D:\DotNet-Training\Day-3(collections)\bin\Debug\net8.0\Day-3(collections).runtimeconfig.json
+D:\DotNet-Training\Day-3(collections)\bin\Debug\net8.0\Day-3(collections).dll
+D:\DotNet-Training\Day-3(collections)\bin\Debug\net8.0\Day-3(collections).pdb
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).dll
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\refint\Day-3(collections).dll
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).pdb
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\Day-3(collections).genruntimeconfig.cache
+D:\DotNet-Training\Day-3(collections)\obj\Debug\net8.0\ref\Day-3(collections).dll

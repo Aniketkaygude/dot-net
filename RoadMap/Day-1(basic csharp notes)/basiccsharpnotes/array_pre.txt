@@ -1,0 +1,26 @@
+array:collection of similar types
+
+array index start from 0,last index in size-1
+
+int a[5];    c
+int a[]=new int[5];  java
+int []a=new int[5];  c#
+
+variable	address	value
+a		1000	10
+b		2000	20
+x		3000	20
+y		4000	10
+temp		5000	10
+
+variable	address	value
+a		1000	20
+b		2000	10
+x		3000	1000
+y		4000	2000
+temp		5000	10
+
+out-must return value
+reference-optional to return value
+
+	

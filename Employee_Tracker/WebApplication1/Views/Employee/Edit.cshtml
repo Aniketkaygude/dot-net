@@ -1,0 +1,87 @@
+﻿@model WebApplication1.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <h1>@ViewBag.msg</h1>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeId" class="control-label"></label>
+                <input asp-for="EmployeeId" class="form-control" disabled />
+                <input asp-for="EmployeeId" hidden />
+                @* <span asp-validation-for="EmployeeId" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeFullName" class="control-label"></label>
+                <input asp-for="EmployeeFullName" class="form-control" />
+                <span asp-validation-for="EmployeeFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeAddress" class="control-label"></label>
+                <input asp-for="EmployeeAddress" class="form-control" />
+                <span asp-validation-for="EmployeeAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeePhone" class="control-label"></label>
+                <input asp-for="EmployeePhone" class="form-control" />
+                <span asp-validation-for="EmployeePhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeCompany" class="control-label"></label>
+                <input asp-for="EmployeeCompany" class="form-control" />
+                <span asp-validation-for="EmployeeCompany" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeJoinDate" class="control-label"></label>
+                <input asp-for="EmployeeJoinDate" class="form-control" />
+                <span asp-validation-for="EmployeeJoinDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeExperience" class="control-label"></label>
+                <input asp-for="EmployeeExperience" class="form-control" />
+                <span asp-validation-for="EmployeeExperience" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeCareerLevel" class="control-label"></label>
+                <input asp-for="EmployeeCareerLevel" class="form-control" />
+                <span asp-validation-for="EmployeeCareerLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeSkill" class="control-label"></label>
+                <input asp-for="EmployeeSkill" class="form-control" />
+                <span asp-validation-for="EmployeeSkill" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeOffShoreStartDate" class="control-label"></label>
+                <input asp-for="EmployeeOffShoreStartDate" class="form-control" />
+                <span asp-validation-for="EmployeeOffShoreStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmployeeOffShoreEndDate" class="control-label"></label>
+                <input asp-for="EmployeeOffShoreEndDate" class="form-control" />
+                <span asp-validation-for="EmployeeOffShoreEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<div>
+    <a asp-action="ListAllEmployees">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

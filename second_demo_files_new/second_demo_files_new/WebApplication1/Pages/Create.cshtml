@@ -1,0 +1,21 @@
+﻿@page
+@model WebApplication1.Pages.CreateModel
+@{
+}
+<form method="post">
+    Product Id:<input type="text" asp-for="pobj.ProductId" />
+    <span asp-validation-for="pobj.ProductId"></span>
+    <br /><br />
+    Product Name:<input type="text" asp-for="pobj.ProductName" />
+    <span asp-validation-for="pobj.ProductName"></span><br /><br />
+
+    Product Price:<input type="text" asp-for="pobj.Price" />
+    <span asp-validation-for="pobj.Price"></span>
+    <br /><br />
+    <input type="submit" value="Save" />
+</form>
+
+@section scripts{
+
+    <partial name="_ValidationScriptsPartial" />
+}

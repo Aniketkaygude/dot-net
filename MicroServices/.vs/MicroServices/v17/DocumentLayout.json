@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet-Training\\MicroServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|d:\\dotnet-training\\microservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|d:\\dotnet-training\\microservices\\models\\product_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|solutionrelative:models\\product_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|d:\\dotnet-training\\microservices\\models\\category_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|solutionrelative:models\\category_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|d:\\dotnet-training\\microservices\\microservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A54531BF-CFED-4268-921E-67DF1E76FFA1}|MicroServices.csproj|solutionrelative:microservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet-Training\\MicroServices\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNet-Training\\MicroServices\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T09:44:17.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_Details.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\MicroServices\\Models\\Product_Details.cs",
+              "RelativeDocumentMoniker": "Models\\Product_Details.cs",
+              "ToolTip": "D:\\DotNet-Training\\MicroServices\\Models\\Product_Details.cs",
+              "RelativeToolTip": "Models\\Product_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:40:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category_Details.cs",
+              "DocumentMoniker": "D:\\DotNet-Training\\MicroServices\\Models\\Category_Details.cs",
+              "RelativeDocumentMoniker": "Models\\Category_Details.cs",
+              "ToolTip": "D:\\DotNet-Training\\MicroServices\\Models\\Category_Details.cs",
+              "RelativeToolTip": "Models\\Category_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:30:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MicroServices",
+              "DocumentMoniker": "D:\\DotNet-Training\\MicroServices\\MicroServices.csproj",
+              "RelativeDocumentMoniker": "MicroServices.csproj",
+              "ToolTip": "D:\\DotNet-Training\\MicroServices\\MicroServices.csproj",
+              "RelativeToolTip": "MicroServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T09:27:03.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

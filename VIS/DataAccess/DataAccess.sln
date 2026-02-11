@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess.csproj", "{34884FB1-1B48-4629-9725-3CBB1A0A691D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISApp", "..\VISApp\VISApp.csproj", "{77747B21-5563-46D1-A196-EBA59657715C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34884FB1-1B48-4629-9725-3CBB1A0A691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34884FB1-1B48-4629-9725-3CBB1A0A691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34884FB1-1B48-4629-9725-3CBB1A0A691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34884FB1-1B48-4629-9725-3CBB1A0A691D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77747B21-5563-46D1-A196-EBA59657715C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77747B21-5563-46D1-A196-EBA59657715C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77747B21-5563-46D1-A196-EBA59657715C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77747B21-5563-46D1-A196-EBA59657715C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584B90D2-EDAF-4CBA-AF28-506033131193}
+	EndGlobalSection
+EndGlobal
